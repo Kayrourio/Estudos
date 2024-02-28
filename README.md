@@ -16,6 +16,7 @@ Olá! Eu sou o Kaike e por meio desse repostiório, irei documentar todos os meu
 - [ ] Criação de uma API com Flask (Ideia)
 - [ ] Automação de uma tareda através do Selenium (Ideia)
 - [ ] Leitor de Emails levando dados a uma planilha do Google Cheets (Ideia)
+- [ ] Assistente estilo Jarvis
 
 ## Web Development
 - [ ] Portifolio
